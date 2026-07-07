@@ -7,3 +7,5 @@ O SimpleHole é um aplicativo desenvolvido para o Windows com o objetivo de auxi
 Caso utilize o código fonte para a melhoria desse programa, dê-me os créditos porfavor :D.
 
 Link do aplicativo para baixar: https://www.mediafire.com/file/nulqgqimwyenxqz/SimpleHole_-_Calculadora_de_RPM.exe/file
+
+Versão Mobile: https://www.mediafire.com/file/qc1of6z9lmkk4g6/SimpleHole_Mobile.apk/file
